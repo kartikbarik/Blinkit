@@ -23,3 +23,10 @@ This dashboard provides an analytical view of Blinkit's key performance indicato
 - *Power BI* – for dashboard design and data modeling
 - *Microsoft Excel/CSV* – data source
 - *Power Query* – data transformation
+  
+## Contact 
+
+- Created by KARTIK BARIK
+- For inquiries, reach out via [kartikbarik603@gmail.com].
+
+Does this align with your expectations? Let me know if you'd like to refine any section!
